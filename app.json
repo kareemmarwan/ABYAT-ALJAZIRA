@@ -1,0 +1,16 @@
+   {
+  "expo": {
+    "name": "firstapp",
+    "slug": "firstapp",
+    "version":"1.0.0",
+    "orientation":"portrait",
+    "sdkVersion":"38.0.0",
+    "android":{
+      "package":"com.mscc.o2ng",
+      "versionCode":1,
+      "premissions":[],
+      "icon": "./big_icon.png"
+    }
+    
+  }
+}
